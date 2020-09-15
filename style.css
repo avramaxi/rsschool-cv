@@ -1,0 +1,21 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #24292e;
+}
+.header {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.avatar {
+    width: 200px; 
+    height: 200px;
+    margin-right: 50px;
+    border-radius: 50%;
+    background: url(mantis.jpg) no-repeat;
+    background-position: center;
+    background-size: auto 200px;
+}
